@@ -1,6 +1,5 @@
 /* ==========================================================
    Personal site – styles
-   Change the colours in :root to restyle the whole page.
    ========================================================== */
 
 :root {
@@ -9,7 +8,7 @@
   --muted: #4a5670;
   --line: #c9d2cc;
   --link: #2b44ff;
-  --mark: #ffd25a;      /* highlighter-yellow used under links on hover */
+  --mark: #ffd25a;     
   --chip: #dde5e0;
 
   --display: "Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
